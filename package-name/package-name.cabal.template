@@ -17,7 +17,7 @@ cabal-version:       >=1.10
 
 source-repository head
   type: git
-  -- location: git://github.com/konn/$packagename.git
+  -- location: git://github.com/konn/$packageName.git
 
 executable $packageName
   main-is:             Main.hs
