@@ -10,13 +10,13 @@ This is my great application.
 ## Install
 
 ```sh
-$ cabal install $packageName
+$$ cabal install $packageName
 ```
 
 ## Usage
 
 ```sh
-$ $packageName foo bar
+$$ $packageName foo bar
 ```
 
 ## Licence
